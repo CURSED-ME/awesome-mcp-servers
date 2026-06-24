@@ -510,6 +510,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 ### Server Managers
 
+- [Loopers](https://github.com/CURSED-ME/loopers-oss) - A sub-millisecond reverse proxy and circuit breaker that protects MCP servers from infinite agent loops and runaway API costs.
 - [mcp-get](https://github.com/michaellatman/mcp-get) - CLI tool for installing and managing MCP servers. Simplifies server installation and configuration for Claude Desktop.
   - Supports NPM-based servers
   - Automatic configuration generation
